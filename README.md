@@ -74,3 +74,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 Update README.md with info 3
 Update README.md with info 8
 Update README.md with info 13
+Update README.md with info 18
