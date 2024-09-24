@@ -9,7 +9,7 @@ export default function ContactComponent() {
       <div className="contact-box">
         <h4 className="number">
           <RiHomeOfficeFill className="icon" />
-          Karachi Office
+          Nairobi Office
         </h4>
         <p className="number">
           <IoCall className="icon" />
@@ -17,17 +17,18 @@ export default function ContactComponent() {
         </p>
         <p className="number">
           <MdEmail className="icon" />
-          smshoaib2001@gmail.com
+          linexmugambi254@gmail.com
         </p>
         <p className="number">
           <IoLocation className="icon" />
-          Block-14, Gulistan-e-Johar, Karachi
+          Block-45, Westlands  Nairobi Office
+
         </p>
       </div>
       <div className="contact-box">
         <h4>
           <RiHomeOfficeFill className="icon" />
-          Islamabad Office
+          CBD Office
         </h4>
         <p className="number">
           <IoCall className="icon" />
@@ -35,17 +36,17 @@ export default function ContactComponent() {
         </p>
         <p className="number">
           <MdEmail className="icon" />
-          smshoaib2001@gmail.com
+          linexmugambi254@gmail.com
         </p>
         <p>
           <IoLocation className="icon" />
-          Block-14, Gulistan-e-Johar, Karachi
+          Block-45, Westlands  Nairobi Office
         </p>
       </div>
       <div className="contact-box">
         <h4>
           <RiHomeOfficeFill className="icon" />
-          Lahore Office
+          Lavington Office
         </h4>
         <p className="number">
           <IoCall className="icon" />
@@ -53,11 +54,11 @@ export default function ContactComponent() {
         </p>
         <p className="number">
           <MdEmail className="icon" />
-          smshoaib2001@gmail.com
+        Linexmugambi254@gmail.com
         </p>
         <p>
           <IoLocation className="icon" />
-          Block-14, Gulistan-e-Johar, Karachi
+          Block-45, Westlands  Nairobi Office
         </p>
       </div>
     </div>
